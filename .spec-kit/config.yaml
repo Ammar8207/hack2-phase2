@@ -1,0 +1,8 @@
+name: todo-phase2
+version: "2.0"
+
+phases:
+  - name: phase2-web
+    features:
+      - task-crud
+      - authentication
